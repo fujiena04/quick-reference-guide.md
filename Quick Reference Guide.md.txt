@@ -1,0 +1,134 @@
+Quick Reference Guide
+
+Google Doc Shortcut Keys (for Windows Users)
+
+<sub>This guide is to help the Google Doc users to navigate different shortcut keys for better efficiency. </sub>
+
+
+<table>
+  <tr>
+   <td>Shortcut
+   </td>
+   <td>Action
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + C
+   </td>
+   <td>Copy
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + X
+   </td>
+   <td>Cut
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + V
+   </td>
+   <td>Paste
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Z
+   </td>
+   <td>Undo
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + S
+   </td>
+   <td>Save the document
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + F
+   </td>
+   <td>Find the text
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + H
+   </td>
+   <td>Find the text + change the text
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Shift + V
+   </td>
+   <td>Paste without formatting
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + K
+   </td>
+   <td>Insert a hyperlink to a text
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Shift + ,
+   </td>
+   <td>Decrease the font size
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Shift + .
+   </td>
+   <td>Increase the font size
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Alt + C
+   </td>
+   <td>Copy the text formatting
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Alt + V
+   </td>
+   <td>Paste the text formatting
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Enter
+   </td>
+   <td>Insert page break
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Alt + Shift + H
+   </td>
+   <td>Open edit history
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + W
+   </td>
+   <td>Close the doc
+   </td>
+  </tr>
+  <tr>
+   <td>Alt + Shift + 5
+   </td>
+   <td>Strikethrough
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Alt + n
+   </td>
+   <td>Move to next section
+   </td>
+  </tr>
+  <tr>
+   <td>Ctrl + Alt + p
+   </td>
+   <td>Move to previous section
+   </td>
+  </tr>
+</table>
+
+
+Citation: Google’s official documentation 
+
+([https://support.google.com/docs/answer/179738?hl=ko&co=GENIE.Platform%3DDesktop#zippy=%2Cpc-%EB%8B%A8%EC%B6%95%ED%82%A4](https://support.google.com/docs/answer/179738?hl=ko&co=GENIE.Platform%3DDesktop#zippy=%2Cpc-%EB%8B%A8%EC%B6%95%ED%82%A4))
